@@ -37,7 +37,7 @@
 // FTMachine::rotateUVW(Matrix<Double>& uvw, Vector<Double>& dphase,
 //                      const VisBuffer& vb)
 
-namespace casa { //# NAMESPACE CASA - BEGIN
+namespace casacore { //# NAMESPACE CASA - BEGIN
 
 class MeasurementSet;
 class LogIO;

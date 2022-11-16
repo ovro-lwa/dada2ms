@@ -37,7 +37,7 @@
 #include "ms_funcs.h"
 #include "MSUVWGenerator.h"
 
-using namespace casa;
+using namespace casacore;
 
 int
 main(int argc, char *argv[])

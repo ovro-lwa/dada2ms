@@ -20,7 +20,7 @@
 #include <tables/Tables.h>
 #include <ms/MeasurementSets.h>
 
-using namespace casa;
+using namespace casacore;
 
 // Take a date,time string (utc) in the from YYYY-MM-DD-HH:MM:SS.S and an
 // offset in seconds and return a MEpoch object.

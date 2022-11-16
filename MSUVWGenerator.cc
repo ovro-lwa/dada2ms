@@ -9,7 +9,7 @@
 #include <ms/MeasurementSets/MSAntennaColumns.h>
 #include <measures/Measures/MCBaseline.h>
 
-namespace casa {
+namespace casacore {
 
 // The UvwCoords ctor has lines for the antennas, antenna offsets, and station
 // positions.  This ctor assumes they're present in msc_p if present at all.
